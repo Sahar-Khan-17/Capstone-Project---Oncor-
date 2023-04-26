@@ -1,8 +1,12 @@
 # CapstoneProjectfor ONCOR
 
-# Disclaimer: To maintain confidentiality, the files and dataset will not be shared.
+# Disclaimer: 
 
-# Goal : Increase recruitment of participants for energy efficiency programs and ultimately increase program enrollment and customer satisfaction
+To maintain confidentiality, the files and dataset will not be shared.
+
+# Goal : 
+
+Increase recruitment of participants for energy efficiency programs and ultimately increase program enrollment and customer satisfaction
 
 
 # Models Used
