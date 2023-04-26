@@ -1,4 +1,4 @@
-# CapstoneProjectfor ONCOR
+# Capstone Projectfor ONCOR
 
 # Disclaimer: 
 
